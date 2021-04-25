@@ -1,0 +1,3 @@
+const ACTION_STATUS_SIDEBAR: string = 'ACTION_OPEN_SIDEBAR';
+
+export default ACTION_STATUS_SIDEBAR;
